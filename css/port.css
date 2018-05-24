@@ -1,6 +1,6 @@
 .head{
 	 display: flex;
-	 flex-wrap:nowwrap;
+	 flex-wrap:nowrap;
 	 justify-content: space-between;
          flex-direction: row;
 
